@@ -12,5 +12,5 @@
 ![游戏内画面3](images/In%20game%2003.png)  
 ![游戏内画面4](images/In%20game%2004.png)  
 # 下载
-- 下载游戏Demo **[`LaserRayGuard_Demo_v24.1.zip`]()**
-- 下载Unity资源 **[`LaserRayGuard.unitypackage`]()**
+- 下载游戏Demo **[`LaserRayGuard_Demo_v24.1.zip`](https://github.com/SakeNolingcke/LaserRayGuard/releases/download/v24.1/LaserRayGuard_Demo_v24.1.zip)**
+- 下载Unity资源 **[`LaserRayGuard.unitypackage`](https://github.com/SakeNolingcke/LaserRayGuard/releases/download/v24.1/LaserRayGuard.unitypackage)**
